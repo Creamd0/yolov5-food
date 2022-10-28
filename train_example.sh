@@ -1,0 +1,2 @@
+python train.py --data my-data.yaml --cfg yolov5s.yaml --weights weights/yolov5s.pt --batch-size 64 --epochs 100
+python train.py --data my-data.yaml --cfg yolov5n.yaml --weights weights/yolov5n.pt --batch-size 64 --epochs 100
