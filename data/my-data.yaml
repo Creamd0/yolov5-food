@@ -6,5 +6,5 @@ val: images  # val images (relative to 'path') 128 images
 test:  # test images (optional)
 
 # Classes
-nc: 4  # number of classes
-names: ['hotdog', 'ice-creamm','omelette','sushi']  # class names
+nc: 9  # number of classes
+names: ['hotdog', 'ice-creamm','omelette','sushi','egg tart','donuts','noodles','fries','rice']  # class names
